@@ -178,8 +178,8 @@ In Burkina Faso, these datasets can be used to build tools for clinics, train he
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ArielShadrac/TensorFlow-Medical-Datasets-for-Healthcare-Applications.git
+   cd TensorFlow-Medical-Datasets-for-Healthcare-Applications
    ```
 2. Install dependencies:
    ```bash
